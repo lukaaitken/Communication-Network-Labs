@@ -1,7 +1,6 @@
 # SENG 4320 – Communication Networks
 
-This repository contains my labs and exercises for **SENG 4320 (Communication Networks)**.  
-The course covers computer networking fundamentals, socket programming, Internet protocols, and traffic analysis using Wireshark.
+This repository contains my labs for **SENG 4320 (Communication Networks)**.  
 
 ---
 
@@ -14,15 +13,6 @@ The course covers computer networking fundamentals, socket programming, Internet
 6. **Streaming Video** – RTSP & RTP implementation (client/server)  
 7. **ICMP Ping** – Ping application using ICMP request/reply (Ch. 5)  
 8. **ICMP Traceroute** – Traceroute application with ICMP (Ch. 5)  
-
----
-
-## 📂 Wireshark Labs
-- Getting started with Wireshark  
-- HTTP, DNS, and TCP/UDP packet analysis  
-- IP, NAT, DHCP, ICMP, Ethernet, and ARP  
-- Wireless networking (802.11)  
-- Network security and TLS  
 
 ---
 
