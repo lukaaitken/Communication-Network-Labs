@@ -18,4 +18,3 @@ This repository contains my labs for **(Communication Networks)**.
 
 ## 👨‍💻 Notes
 - Programming labs are implemented in **Python**.  
-- Wireshark labs focus on packet capture and protocol analysis.  
