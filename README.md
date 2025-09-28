@@ -1,6 +1,6 @@
-# SENG 4320 – Communication Networks
+# Communication Network Labs
 
-This repository contains my labs for **SENG 4320 (Communication Networks)**.  
+This repository contains my labs for **(Communication Networks)**.  
 
 ---
 
